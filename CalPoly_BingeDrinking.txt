@@ -1,0 +1,40 @@
+#Text file from ChatGPT using links for info in Milestone 1 paper
+
+# Cal Poly (SLO) ACHA-NCHA IIIb Alcohol Data
+# Source Year: 2024
+# Term: Spring
+#
+# Format:
+# year,term,metric,group,category,percent
+
+#year,term,metric,group,time,percent
+Recent,2024,Spring,Drank alcohol (when was the last time?),Cis Men,Never,25.7
+Recent,2024,Spring,Drank alcohol (when was the last time?),Cis Women,Never,17.6
+Recent,2024,Spring,Drank alcohol (when was the last time?),Cis Men,Within the last 2 weeks,50.3
+Recent,2024,Spring,Drank alcohol (when was the last time?),Cis Women,Within the last 2 weeks,59.5
+Recent,2024,Spring,Drank alcohol (when was the last time?),Cis Men,More than 2 weeks ago but within the last 30 days,10.5
+Recent,2024,Spring,Drank alcohol (when was the last time?),Cis Women,More than 2 weeks ago but within the last 30 days,8.8
+Recent,2024,Spring,Drank alcohol (when was the last time?),Cis Men,More than 30 days ago but within the last 3 months,6.8
+Recent,2024,Spring,Drank alcohol (when was the last time?),Cis Women,More than 30 days ago but within the last 3 months,8.7
+Recent,2024,Spring,Drank alcohol (when was the last time?),Cis Men,More than 3 months ago but within the last 12 months,3.2
+Recent,2024,Spring,Drank alcohol (when was the last time?),Cis Women,More than 3 months ago but within the last 12 months,3.9
+Recent,2024,Spring,Drank alcohol (when was the last time?),Cis Men,More than 12 months ago,3.5
+Recent,2024,Spring,Drank alcohol (when was the last time?),Cis Women,More than 12 months ago,1.6
+
+Students,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (all students),Cis Men,None,18.1
+Students,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (all students),Cis Women,None,23.6
+Students,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (all students),Cis Men,1-2 times,24.4
+Students,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (all students),Cis Women,1-2 times,26.5
+Students,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (all students),Cis Men,3-5 times,6.6
+Students,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (all students),Cis Women,3-5 times,8.8
+Students,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (all students),Cis Men,6 or more times,1.2
+Students,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (all students),Cis Women,6 or more times,0.6
+
+Drinkers,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (among drinkers),Cis Men,None,35.9
+Drinkers,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (among drinkers),Cis Women,None,39.6
+Drinkers,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (among drinkers),Cis Men,1-2 times,48.6
+Drinkers,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (among drinkers),Cis Women,1-2 times,44.6
+Drinkers,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (among drinkers),Cis Men,3-5 times,13.2
+Drinkers,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (among drinkers),Cis Women,3-5 times,14.7
+Drinkers,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (among drinkers),Cis Men,6 or more times,2.3
+Drinkers,2024,Spring,Consumed 5+ drinks in a sitting within last 2 weeks (among drinkers),Cis Women,6 or more times,1.1
